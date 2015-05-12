@@ -1,0 +1,20 @@
+announce = http://127.0.0.1:6666
+info =   pieces = [byte array length 280
+  piecesInfo = 
+    piece10 = dc91da191359af6b5b0f04e8c953e491fa24807f
+    piece11 = 918b048f454f9cbfcbadb514894dd228935c0c3a
+    piece12 = 3c23daccf3e7bfdcafa2b5cc922e3776e9aa065c
+    piece3 = 47bd565c4906e0b242487f0ac9def9f4b399b660
+    piece2 = 4391370f5dbd09d9b22fbdc35a5bf91a8172994b
+    piece5 = 84348d170128dd66a0bda862668899142f3f39ff
+    piece4 = fccf24114eabdd143b951af51777c9840b28c2f3
+    piece13 = da39a3ee5e6b4b0d3255bfef95601890afd80709
+    piece1 = f184f827e634414f5c076595c61cf2e93016d816
+    piece0 = fadae230b9b0b4b3927e6b573ff7653a30169504
+    piece7 = 319a388a98abb1a8e7f95ccb4dca3be49d43c946
+    piece6 = 323b4c5b83a023d74c2f22158de10419c629d2b3
+    piece9 = b83adbca10ebcd10997b9da3a811f9b9aad54c8f
+    piece8 = 953075b800c9791517f443d42e8a55d6fc302c80
+  length = 6817792
+  name = vid3.mpeg
+  piece length = 524288
